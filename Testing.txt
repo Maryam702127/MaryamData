@@ -1,0 +1,48 @@
+SignUp :
+{
+  "username": "Maryam",
+  "password": "password123"
+}
+
+##################################################################
+
+Login :
+{
+  "username": "Maryam",
+  "password": "password123"
+}
+
+##################################################################
+verify-2fa :
+{
+  "username" :"Maryam",
+  "code" :" "
+}
+
+##################################################################
+
+Create new product :
+{
+  "name": "Laptop",
+  "description": "Gaming Laptop",
+  "price": 1200.50,
+  "quantity": 5
+}
+
+
+##################################################################
+
+Update Product :
+
+{
+  "name": "Laptop Pro",
+  "description": "Updated Gaming Laptop",
+  "price": 1500.75,
+  "quantity": 3
+}
+
+##################################################################
+
+
+
+
